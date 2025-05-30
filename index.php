@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>CRUD Main Page</title>
+    <title>Anita's Crud</title>
     <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
